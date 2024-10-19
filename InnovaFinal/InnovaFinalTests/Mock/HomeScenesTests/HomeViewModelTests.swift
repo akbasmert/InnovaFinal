@@ -56,7 +56,7 @@ extension Product {
     static var response: Product {
         let bundle = Bundle(for: HomeViewModelTests.self)
         let path = bundle.path(forResource: "Products", ofType: "json")!
-        let file = try! String(contentsOfFile: path)
+        let file = path
         let data = file.data(using: .utf8)!
         let decoder = Decoders.dateDecoder
         let response = try! decoder.decode(Product.self, from: data)
