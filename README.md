@@ -21,7 +21,7 @@
 
 
 ## Demo
-<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/Adsız%20tasarım.gif" width="950" height="500" />
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/Adsız%20tasarım.gif" width="950" height="450" />
 Note: Above is a gif promoting the app. Downloading late due to file size.
 
 #### Home Page 
