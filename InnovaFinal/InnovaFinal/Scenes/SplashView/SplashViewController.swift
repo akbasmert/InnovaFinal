@@ -31,7 +31,7 @@ extension SplashViewController: SplashViewModelDelegate {
     
     func noInternetConnection() {
         DispatchQueue.main.async {
-            self.showAlert("Error", "No internet")
+            self.showAlert("Hata", "Lütfen internet bağlantınızı kontrol edin")
         }
     }
     

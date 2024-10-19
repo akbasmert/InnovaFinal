@@ -95,7 +95,8 @@ extension CartViewController: UITableViewDataSource, UITableViewDelegate {
           
         } else {
             let cell = cartTableView.dequeueReusableCell(withIdentifier: "cartTableCell") as! CartTableViewCell
-          
+                cell.selectionStyle = .none
+            
                 let name = self.cartViewModel.getName(index: indexPath.row) ?? ""
 
                 let brand = self.cartViewModel.getBrandName(for: name) ?? ""
@@ -125,11 +126,10 @@ extension CartViewController: UITableViewDataSource, UITableViewDelegate {
             contextualAction,
             view,
             bool in
-            if let product = self.cartViewModel.getProduct(indexPath.row) {
                 
                 let alert = UIAlertController(
                     title: "Silme İşlemi",
-                    message: "\(product.name!) silinsin mi?",
+                    message: "Ürün silinsin mi?",
                     preferredStyle: .alert
                 )
                 
@@ -150,7 +150,6 @@ extension CartViewController: UITableViewDataSource, UITableViewDelegate {
                 alert.addAction(evetAction)
                 
                 self.present(alert, animated: true)
-            }
         }
         
         return UISwipeActionsConfiguration(actions: [silAction])

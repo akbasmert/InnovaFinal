@@ -59,7 +59,10 @@ final class HomeViewModel: NSObject {
             
             guard let self else { return }
             
-            self.delegate?.hideLoadingView()
+            DispatchQueue.main.asyncAfter(deadline: .now() + 2, execute: {
+                self.delegate?.hideLoadingView()
+            })
+          
             
             switch response {
             case .success(let product):
