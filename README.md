@@ -11,7 +11,7 @@
 
 -> The Innova Store application is designed using the MVVM architecture. 
 
--> The application consists of three screens: Main Screen, Detail Screen,Cart Screen and Favorites Screen.
+-> The application consists of three screens: Main Screen, Detail Screen, Cart Screen and Favorites Screen.
 
 -> When a search is performed, the data from the API is filtered and displayed after entering the first three letters.
 
