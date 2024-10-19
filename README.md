@@ -21,18 +21,22 @@
 
 
 ## Demo
-<img src="https://github.com/akbasmert/GameHouse-MVVM/blob/main/ReadmePhotos/gif.gif" width="800" height="550" />
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/Adsız%20tasarım.gif" width="800" height="550" />
 Note: Above is a gif promoting the app. Downloading late due to file size.
 
 #### Home Page 
 
-<img src="https://github.com/akbasmert/GameHouse-MVVM/blob/main/ReadmePhotos/home.png" width="800" height="550" />
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/home.png" width="800" height="550" />
 
 #### Detail Page 
 
-<img src="https://github.com/akbasmert/GameHouse-MVVM/blob/main/ReadmePhotos/detail.png" width="800" height="550" />
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/detay.png" width="800" height="550" />
+
+#### Cart Page 
+
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/cart.png" width="800" height="550" />
 
 #### Favori Page 
 
-<img src="https://github.com/akbasmert/GameHouse-MVVM/blob/main/ReadmePhotos/favori.png" width="800" height="550" />
+<img src="https://github.com/akbasmert/InnovaFinal/blob/main/ReadmePhotos/favori.png" width="800" height="550" />
 # InnovaFinal
