@@ -33,7 +33,6 @@ final class FavoriViewModelTests: XCTestCase {
         viewModel.viewDidLoad()
         
         XCTAssertTrue(view.isInvokedSetupTableView)
-        
     }
     
     func test_fetchFilteredProducts() {

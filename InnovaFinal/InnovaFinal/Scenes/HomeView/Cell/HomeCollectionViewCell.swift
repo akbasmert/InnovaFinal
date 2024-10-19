@@ -66,6 +66,4 @@ class HomeCollectionViewCell: UICollectionViewCell {
             productImageView.image = UIImage(named: "placeholder")
         }
     }
-
-    
 }
