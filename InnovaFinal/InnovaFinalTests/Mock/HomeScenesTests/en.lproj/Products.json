@@ -1,0 +1,108 @@
+/* 
+  Products.json
+  InnovaFinal
+
+  Created by Mert AKBAŞ on 16.10.2024.
+  
+*/
+{
+  "urunler": [
+    {
+      "id": 1,
+      "ad": "Bilgisayar",
+      "resim": "bilgisayar.png",
+      "kategori": "Teknoloji",
+      "fiyat": 93000,
+      "marka": "Apple"
+    },
+    {
+      "id": 2,
+      "ad": "Gözlük",
+      "resim": "gozluk.png",
+      "kategori": "Aksesuar",
+      "fiyat": 5400,
+      "marka": "Rayban"
+    },
+    {
+      "id": 3,
+      "ad": "Kulaklık",
+      "resim": "kulaklik.png",
+      "kategori": "Teknoloji",
+      "fiyat": 2700,
+      "marka": "Sony"
+    },
+    {
+      "id": 4,
+      "ad": "Parfüm",
+      "resim": "parfum.png",
+      "kategori": "Kozmetik",
+      "fiyat": 6300,
+      "marka": "Armani"
+    },
+    {
+      "id": 5,
+      "ad": "Saat",
+      "resim": "saat.png",
+      "kategori": "Aksesuar",
+      "fiyat": 8500,
+      "marka": "Casio"
+    },
+    {
+      "id": 6,
+      "ad": "Süpürge",
+      "resim": "supurge.png",
+      "kategori": "Teknoloji",
+      "fiyat": 28600,
+      "marka": "Dyson"
+    },
+    {
+      "id": 7,
+      "ad": "Telefon",
+      "resim": "telefon.png",
+      "kategori": "Teknoloji",
+      "fiyat": 78000,
+      "marka": "Apple"
+    },
+    {
+      "id": 8,
+      "ad": "Deodorant",
+      "resim": "deodorant.png",
+      "kategori": "Kozmetik",
+      "fiyat": 1600,
+      "marka": "Hugo Boss"
+    },
+    {
+      "id": 9,
+      "ad": "Kemer",
+      "resim": "kemer.png",
+      "kategori": "Aksesuar",
+      "fiyat": 4400,
+      "marka": "Dior"
+    },
+    {
+      "id": 10,
+      "ad": "Krem",
+      "resim": "krem.png",
+      "kategori": "Kozmetik",
+      "fiyat": 6500,
+      "marka": "Lancome"
+    },
+    {
+      "id": 11,
+      "ad": "Ruj",
+      "resim": "ruj.png",
+      "kategori": "Kozmetik",
+      "fiyat": 3800,
+      "marka": "Tom Ford"
+    },
+    {
+      "id": 12,
+      "ad": "Şapka",
+      "resim": "sapka.png",
+      "kategori": "Aksesuar",
+      "fiyat": 2700,
+      "marka": "Versace"
+    }
+  ],
+  "success": 1
+}
