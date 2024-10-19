@@ -236,11 +236,11 @@
             </objects>
             <point key="canvasLocation" x="2622" y="-363"/>
         </scene>
-        <!--Favorite-->
+        <!--Favoriler-->
         <scene sceneID="736-ek-hwG">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="NVM-aP-sIS" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Favorite" image="heart" catalog="system" id="cl3-SR-F2G"/>
+                    <tabBarItem key="tabBarItem" title="Favoriler" image="heart" catalog="system" id="cl3-SR-F2G"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="xo9-Km-uLt">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
@@ -255,11 +255,11 @@
             </objects>
             <point key="canvasLocation" x="920" y="-362"/>
         </scene>
-        <!--Home-->
+        <!--Anasayfa-->
         <scene sceneID="j68-eD-vYl">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gQH-us-XvV" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Home" image="homekit" catalog="system" id="iN7-H9-OKV"/>
+                    <tabBarItem key="tabBarItem" title="Anasayfa" image="homekit" catalog="system" id="iN7-H9-OKV"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="gu9-yy-6tU">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
@@ -454,11 +454,11 @@
             </objects>
             <point key="canvasLocation" x="2621" y="311"/>
         </scene>
-        <!--Cart-->
+        <!--Sepet-->
         <scene sceneID="LrX-er-66M">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="FCb-R7-Uc0" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Cart" image="cart" catalog="system" landscapeImage="cart" id="DwQ-Qm-74e"/>
+                    <tabBarItem key="tabBarItem" title="Sepet" image="cart" catalog="system" landscapeImage="cart" id="DwQ-Qm-74e"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="S1T-v4-FPy">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
